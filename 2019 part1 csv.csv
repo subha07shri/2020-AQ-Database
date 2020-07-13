@@ -1,4 +1,4 @@
-Date,Country,City,Specie,Count,Min,Max,Median,Float
+Date,Country,City,Specie,Count,Min,Max,Median,Varience
 01-01-2019,IN,Kolkata,pm10,96,94,562,159,87780.1
 01-01-2019,IN,Kolkata,o3,96,0.3,45.7,2.5,2000.66
 01-01-2019,IN,Kolkata,pressure,116,1016,1021,1018,21.31
