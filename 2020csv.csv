@@ -1,4 +1,4 @@
-Date,Country,City,Specie,Count,Min,Max,Medain,Varience
+Date,Country,City,Specie,Count,Min,Max,Median,Varience
 01-01-2020,IN,Kolkata,no2,168,9,71.1,32.2,1871.14
 01-01-2020,IN,Kolkata,pm25,192,154,999,198,165145
 01-01-2020,IN,Kolkata,co,168,2.1,65.9,12,1833.01
